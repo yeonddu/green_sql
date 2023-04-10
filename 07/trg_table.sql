@@ -1,0 +1,19 @@
+USE triggerdb;
+CREATE TABLE ordertbl
+(orderNo INT AUTO_INCREMENT PRIMARY KEY,
+userID VARCHAR(5),
+prodName VARCHAR(5),
+orderamount INT );
+
+CREATE TABLE prodtbl
+(prodName VARCHAR(5),
+ACCOUNT INT);
+
+CREATE TABLE delivertbl
+(deliverNo INT AUTO_INCREMENT PRIMARY KEY,
+prodName VARCHAR(5),
+ACCOUNT INT UNIQUE);
+
+INSERT INTO prodtbl VALUES('사과', 100);
+INSERT INTO prodtbl VALUES('배',100);
+INSERT INTO prodtbl VALUES('귤',100);

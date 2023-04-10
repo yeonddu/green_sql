@@ -1,0 +1,1 @@
+SELECT SIGN(-3), SIGN(0), SIGN(3);

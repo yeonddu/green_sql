@@ -1,0 +1,346 @@
+LastSessions<|||>1<|||>root
+LastActiveSession<|||>1<|||>root
+ColWidths_connform.ListSessions<|||>1<|||>163,50,50,50,50,50,10
+ColsVisible_connform.ListSessions<|||>1<|||>0,1,4,6
+ColPositions_connform.ListSessions<|||>1<|||>0,1,2,3,4,5,6
+ColSort_connform.ListSessions<|||>1<|||>0,0
+CreateDbCollation<|||>1<|||>utf8mb4_unicode_ci
+ColWidths_frmTableEditor.listColumns<|||>1<|||>39,144,94,90,60,102,87,117,130,140,100,100
+ColsVisible_frmTableEditor.listColumns<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11
+ColPositions_frmTableEditor.listColumns<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11
+ColSort_frmTableEditor.listColumns<|||>1<|||>-1,0
+ColWidths_frmTableEditor.treeIndexes<|||>1<|||>26,514,80
+ColsVisible_frmTableEditor.treeIndexes<|||>1<|||>0,1,2
+ColPositions_frmTableEditor.treeIndexes<|||>1<|||>0,1,2
+ColSort_frmTableEditor.treeIndexes<|||>1<|||>-1,0
+ColWidths_frmTableEditor.listForeignKeys<|||>1<|||>10,58,278,126,182,114
+ColsVisible_frmTableEditor.listForeignKeys<|||>1<|||>0,1,2,3,4,5
+ColPositions_frmTableEditor.listForeignKeys<|||>1<|||>0,1,2,3,4,5
+ColSort_frmTableEditor.listForeignKeys<|||>1<|||>-1,0
+ColWidths_frmTableEditor.listCheckConstraints<|||>1<|||>200,437
+ColsVisible_frmTableEditor.listCheckConstraints<|||>1<|||>0,1
+ColPositions_frmTableEditor.listCheckConstraints<|||>1<|||>0,1
+ColSort_frmTableEditor.listCheckConstraints<|||>1<|||>-1,0
+ColWidths_frmRoutineEditor.listParameters<|||>1<|||>50,416,90,70
+ColsVisible_frmRoutineEditor.listParameters<|||>1<|||>0,1,2,3
+ColPositions_frmRoutineEditor.listParameters<|||>1<|||>0,1,2,3
+ColSort_frmRoutineEditor.listParameters<|||>1<|||>-1,0
+querymemoheight<|||>3<|||>359
+MainWinOnMonitor<|||>3<|||>0
+MainWinLeft<|||>3<|||>0
+MainWinTop<|||>3<|||>0
+MainWinWidth<|||>3<|||>1155
+MainWinHeight<|||>3<|||>1056
+ColWidths_MainForm.ListDatabases<|||>1<|||>150,80,50,50,50,50,50,50,50,50,120
+ColsVisible_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColPositions_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColSort_MainForm.ListDatabases<|||>1<|||>0,0
+ColWidths_MainForm.ListVariables<|||>1<|||>160,200,428
+ColsVisible_MainForm.ListVariables<|||>1<|||>0,1,2
+ColPositions_MainForm.ListVariables<|||>1<|||>0,1,2
+ColSort_MainForm.ListVariables<|||>1<|||>0,0
+ColWidths_MainForm.ListStatus<|||>1<|||>160,428,100,100
+ColsVisible_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColPositions_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColSort_MainForm.ListStatus<|||>1<|||>0,0
+ColWidths_MainForm.ListProcesses<|||>1<|||>70,80,80,80,80,50,50,592
+ColsVisible_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColPositions_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColSort_MainForm.ListProcesses<|||>1<|||>0,1
+ColWidths_MainForm.ListCommandStats<|||>1<|||>120,100,100,100,368
+ColsVisible_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColPositions_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColSort_MainForm.ListCommandStats<|||>1<|||>1,1
+ColWidths_MainForm.ListTables<|||>1<|||>120,70,70,133,133,70,100,50,70,70,70,70,70,90,120,70,70,70,69
+ColsVisible_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,18
+ColPositions_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+ColSort_MainForm.ListTables<|||>1<|||>0,0
+DateTimeEditor_CursorPos_Type4<|||>3<|||>10
+queryhelperswidth<|||>3<|||>88
+MemoEditorWidth<|||>3<|||>587
+MainWinMaximized<|||>3<|||>0
+sqloutheight<|||>3<|||>287
+dbtreewidth<|||>3<|||>275
+ColWidths_frmInsertFiles.ListColumns<|||>1<|||>100,80,278
+ColsVisible_frmInsertFiles.ListColumns<|||>1<|||>0,1,2
+ColPositions_frmInsertFiles.ListColumns<|||>1<|||>0,1,2
+ColSort_frmInsertFiles.ListColumns<|||>1<|||>-1,0
+ColWidths_frmInsertFiles.ListFiles<|||>1<|||>308,87,80
+ColsVisible_frmInsertFiles.ListFiles<|||>1<|||>0,1,2
+ColPositions_frmInsertFiles.ListFiles<|||>1<|||>0,1,2
+ColSort_frmInsertFiles.ListFiles<|||>1<|||>0,0
+FileDialogEncoding_MainForm<|||>3<|||>0
+MemoEditorMaximized<|||>3<|||>0
+MemoEditorHeight<|||>3<|||>143
+WrapLongLines<|||>3<|||>1
+CodeFolding<|||>3<|||>0
+FindDialogSearchHistory<|||>1<|||>stored_fileName<{{{><}}}>stest002<{{{><}}}>
+ExportSQL_CreateDatabases<|||>3<|||>1
+ExportSQL_CreateTables<|||>3<|||>1
+ExportSQL_Filenames<|||>1<|||>C:\Users\Administrator\Desktop\shopdb.sql<{{{><}}}>C:\Users\Administrator\Downloads\MYDB.sql<{{{><}}}>C:\Users\Administrator\Downloads\tt.sql<{{{><}}}>C:\Users\Administrator\Downloads\mydb.sql<{{{><}}}>C:\Users\Administrator\Downloads\all.sql<{{{><}}}>C:\Users\Administrator\Downloads\book.sql<{{{><}}}>C:\Users\Administrator\Desktop\u_board_liked_tbl.sql<{{{><}}}>C:\Users\Administrator\Desktop\u_board_bad_tbl.sql<{{{><}}}>C:\Users\Administrator\Desktop\storeinfo_image_tbl.sql<{{{><}}}>C:\Users\Administrator\Desktop\mydb.sql<{{{><}}}>C:\Users\Administrator\Desktop\mydb2.sql<{{{><}}}>C:\Users\Administrator\Desktop\storeInfo_tbl.sql<{{{><}}}>
+ExportSQL_DataHow<|||>3<|||>2
+DisplayBLOBsAsText<|||>3<|||>0
+StopOnErrorsInBatchMode<|||>3<|||>0
+CopyTable_Keys<|||>3<|||>0
+CopyTable_ForeignKeys<|||>3<|||>0
+Updatecheck<|||>3<|||>1
+DoUsageStatistics<|||>3<|||>1
+UpdatecheckLastrun<|||>1<|||>2022-12-29 17:42:35
+LastUsageStatisticCall<|||>1<|||>2022-12-26 10:24:44
+CoolBand0Index<|||>3<|||>0
+CoolBand0Break<|||>3<|||>1
+CoolBand0Width<|||>3<|||>1161
+CoolBand1Index<|||>3<|||>1
+CoolBand1Break<|||>3<|||>1
+CoolBand1Width<|||>3<|||>1161
+SessionManager_WindowWidth<|||>3<|||>854
+SessionManager_WindowHeight<|||>3<|||>662
+SessionManager_WindowLeft<|||>3<|||>315
+SessionManager_WindowTop<|||>3<|||>196
+TableTools_FindText<|||>1<|||>jee
+TableTools_WindowWidth<|||>3<|||>1043
+TableTools_WindowHeight<|||>3<|||>579
+ColWidths_UserManagerForm.listUsers<|||>1<|||>96,80
+ColsVisible_UserManagerForm.listUsers<|||>1<|||>0,1
+ColPositions_UserManagerForm.listUsers<|||>1<|||>0,1
+ColSort_UserManagerForm.listUsers<|||>1<|||>0,0
+GridExportClpColumnNames<|||>3<|||>1
+GridExportClpAutoInc<|||>3<|||>1
+GridExportClpSeparator<|||>1<|||>;
+GridExportClpEncloser<|||>1<|||>
+GridExportClpTerminator<|||>1<|||>\r\n
+GridExportClpNull<|||>1<|||>\N
+GridExportFormat<|||>3<|||>0
+GridExportOutputCopy<|||>3<|||>0
+GridExportOutputFile<|||>3<|||>1
+GridExportFilename<|||>1<|||>C:\Users\Administrator\Desktop\yeonsu.csv
+GridExportRecentFiles<|||>1<|||>C:\Users\Administrator\Desktop\yeonsu.csv
+Usermanager_WindowWidth<|||>3<|||>604
+Usermanager_WindowHeight<|||>3<|||>779
+SQLFile0<|||>1<|||>C:\Users\Administrator\Desktop\sql\07\trg_action.sql
+SQLFile1<|||>1<|||>C:\Users\Administrator\Desktop\sql\07\trg_trg2.sql
+SQLFile2<|||>1<|||>C:\Users\Administrator\Desktop\sql\07\trg_trg1.sql
+SQLFile3<|||>1<|||>C:\Users\Administrator\Desktop\sql\07\trg_table.sql
+SQLFile4<|||>1<|||>C:\Users\Administrator\AppData\Roaming\HeidiSQL\Backups\query-tab-2022-12-30_10-36-27-764.sql
+SQLFile5<|||>1<|||>C:\Users\Administrator\Desktop\sql\07\while2_iterate.sql
+SQLFile6<|||>1<|||>C:\Users\Administrator\Desktop\sql\07\outerjoin_right.sql
+SQLFile7<|||>1<|||>C:\Users\Administrator\Desktop\sql\07\procedure_case.sql
+SQLFile8<|||>1<|||>C:\Users\Administrator\Desktop\sql\07\procedure_ifelse3.sql
+SQLFile9<|||>1<|||>C:\Users\Administrator\Desktop\sql\07\procedure_ifelse1.sql
+SQLFile10<|||>1<|||>C:\Users\Administrator\Desktop\sql\07\procedure_ifelse2.sql
+SQLFile11<|||>1<|||>C:\Users\Administrator\AppData\Roaming\HeidiSQL\Backups\query-tab-2022-12-28_11-06-10-788.sql
+SQLFile12<|||>1<|||>C:\Users\Administrator\AppData\Roaming\HeidiSQL\Backups\query-tab-2022-09-06_17-41-29-019.sql
+SQLFile13<|||>1<|||>C:\Users\Administrator\AppData\Roaming\HeidiSQL\Backups\query-tab-2022-08-18_12-54-47-961.sql
+SQLFile14<|||>1<|||>C:\Users\Administrator\AppData\Roaming\HeidiSQL\Backups\query-tab-2022-08-09_11-41-31-462.sql
+Servers\root\SessionCreated<|||>1<|||>2022-08-03 09:34:18
+Servers\root\Host<|||>1<|||>127.0.0.1
+Servers\root\WindowsAuth<|||>3<|||>0
+Servers\root\CleartextPluginEnabled<|||>3<|||>0
+Servers\root\User<|||>1<|||>root
+Servers\root\Password<|||>1<|||>2
+Servers\root\LoginPrompt<|||>3<|||>0
+Servers\root\Port<|||>1<|||>3306
+Servers\root\NetType<|||>3<|||>0
+Servers\root\Compressed<|||>3<|||>0
+Servers\root\LocalTimeZone<|||>3<|||>0
+Servers\root\QueryTimeout<|||>3<|||>30
+Servers\root\KeepAlive<|||>3<|||>20
+Servers\root\FullTableStatus<|||>3<|||>1
+Servers\root\Databases<|||>1<|||>
+Servers\root\Library<|||>1<|||>libmariadb.dll
+Servers\root\Comment<|||>1<|||>
+Servers\root\StartupScriptFilename<|||>1<|||>
+Servers\root\TreeBackground<|||>3<|||>536870911
+Servers\root\SSHtunnelHost<|||>1<|||>
+Servers\root\SSHtunnelHostPort<|||>3<|||>22
+Servers\root\SSHtunnelUser<|||>1<|||>
+Servers\root\SSHtunnelPassword<|||>1<|||>4
+Servers\root\SSHtunnelTimeout<|||>3<|||>4
+Servers\root\SSHtunnelPrivateKey<|||>1<|||>
+Servers\root\SSHtunnelPort<|||>3<|||>3307
+Servers\root\SSL_Active<|||>3<|||>0
+Servers\root\SSL_Key<|||>1<|||>
+Servers\root\SSL_Cert<|||>1<|||>
+Servers\root\SSL_CA<|||>1<|||>
+Servers\root\SSL_Cipher<|||>1<|||>
+Servers\root\IgnoreDatabasePattern<|||>1<|||>
+Servers\root\LogFileDdl<|||>3<|||>0
+Servers\root\LogFileDml<|||>3<|||>0
+Servers\root\LogFilePath<|||>1<|||>C:\Users\Administrator\AppData\Roaming\HeidiSQL\Logs\%session\%db\%y%m%d.sql
+Servers\root\ServerVersionFull<|||>1<|||>10.6.8-MariaDB - mariadb.org binary distribution
+Servers\root\ConnectCount<|||>3<|||>114
+Servers\root\ServerVersion<|||>3<|||>100608
+Servers\root\LastConnect<|||>1<|||>2022-12-30 11:41:34
+Servers\root\lastUsedDB<|||>1<|||>sqldb
+Servers\root\FavoriteObjects<|||>1<|||>
+Servers\root\RefusedCount<|||>3<|||>6
+Servers\root\ex22|t_admin\MemoEditorHighlighter_pw<|||>1<|||>
+Servers\root\ex22|t_board\MemoEditorHighlighter_pw<|||>1<|||>
+Servers\root\mydb|category_tbl\Sort<|||>1<|||>1_category_code|1_category_name|
+Servers\root\mydb|notice_tbl\MemoEditorHighlighter_no_title<|||>1<|||>
+Servers\root\mydb|nouser_book_tbl\MemoEditorHighlighter_order_id<|||>1<|||>
+Servers\root\mydb|nouser_book_tbl\Sort<|||>1<|||>1_reserv_status|
+Servers\root\mydb|review_tbl\Sort<|||>1<|||>0_review_num|
+Servers\root\mydb|seller_tbl\MemoEditorHighlighter_seller_name<|||>1<|||>
+Servers\root\mydb|storeinfo_image_tbl\Sort<|||>1<|||>0_image_fileName|
+Servers\root\mydb|temp_date\MemoEditorHighlighter_months<|||>1<|||>
+Servers\root\mydb|u_board_tbl\MemoEditorHighlighter_u_content<|||>1<|||>
+Servers\root\mydb|u_board_tbl\Sort<|||>1<|||>1_liked|
+Servers\root\mydb|u_image_tbl\Sort<|||>1<|||>1_image_fileName|
+Servers\root\QueryHistory\1<|||>1<|||>2022-12-27 10:18:44|shopdb|0|USE shopdb;<{{{><}}}>SELECT memberID FROM membertbl;
+Servers\root\QueryHistory\2<|||>1<|||>2022-12-27 10:19:23|shopdb|0|USE shopdb;<{{{><}}}>SELECT memberName FROM membertbl;
+Servers\root\QueryHistory\3<|||>1<|||>2022-12-27 10:20:16|shopdb|0|USE shopdb;<{{{><}}}>SELECT memberName,memberID FROM membertbl;
+Servers\root\QueryHistory\5<|||>1<|||>2022-12-27 10:31:05|shopdb|0|USE shopdb;<{{{><}}}>SELECT * FROM membertbl WHERE memberID = jee;
+Servers\root\QueryHistory\6<|||>1<|||>2022-12-27 10:32:04|shopdb|0|USE shopdb;<{{{><}}}>SELECT * FROM membertbl WHERE memberID = "Jee";
+Servers\root\QueryHistory\7<|||>1<|||>2022-12-27 10:37:36|shopdb|16|USE shopdb;<{{{><}}}>CREATE TABLE mytestTBL (id INT);
+Servers\root\QueryHistory\9<|||>1<|||>2022-12-27 10:39:30|shopdb|0|USE shopdb;<{{{><}}}>CREATE TABLE youtestTBL (id INT) (name VARCHAR) (address VARCHAR);<{{{><}}}>
+Servers\root\QueryHistory\8<|||>1<|||>2022-12-27 10:39:57|shopdb|0|USE shopdb;<{{{><}}}>CREATE TABLE youtestTBL (id INT), (name VARCHAR), (address VARCHAR);<{{{><}}}>
+Servers\root\QueryHistory\10<|||>1<|||>2022-12-27 10:40:08|shopdb|0|USE shopdb;<{{{><}}}>CREATE TABLE youtestTBL (id INT, name VARCHAR, address VARCHAR);<{{{><}}}>
+Servers\root\QueryHistory\11<|||>1<|||>2022-12-27 10:41:49|shopdb|16|USE shopdb;<{{{><}}}>CREATE TABLE youtestTBL (id INT, name VARCHAR(10), address VARCHAR(20));<{{{><}}}>
+Servers\root\QueryHistory\12<|||>1<|||>2022-12-27 11:16:33|shopdb|0|USE shopdb;<{{{><}}}>CREATE TABLE indextbl (first_name VARCHAR(14), last_name VARCHAR(16), hire_date DATE);<{{{><}}}>INSERT INTO indextbl<{{{><}}}>SELECT first_name, last_name, hire_date<{{{><}}}>FROM employees.employees<{{{><}}}>LIMIT 500;<{{{><}}}>SELECT * FROM indextbl;
+Servers\root\QueryHistory\14<|||>1<|||>2022-12-27 11:22:09|shopdb|0|USE shopdb; -- shopdb에 생성<{{{><}}}>CREATE TABLE indextbl (first_name VARCHAR(14), last_name VARCHAR(16), hire_date DATE); -- 테이블 생성<{{{><}}}><{{{><}}}>INSERT INTO indextbl <{{{><}}}>SELECT first_name, last_name, hire_date<{{{><}}}>FROM employees.employees<{{{><}}}>LIMIT 500; -- employees데이터베이스의 employees테이블에서 first_name, last_name, hire_date를 가져와서 (최대 500행)indextbl에 저장<{{{><}}}><{{{><}}}>explain SELECT * FROM indextbl; -- indextbl 출력
+Servers\root\QueryHistory\15<|||>1<|||>2022-12-27 11:22:37|shopdb|0|USE shopdb; -- shopdb에 생성<{{{><}}}>CREATE TABLE indextbl (first_name VARCHAR(14), last_name VARCHAR(16), hire_date DATE); -- 테이블 생성<{{{><}}}><{{{><}}}>INSERT INTO indextbl <{{{><}}}>SELECT first_name, last_name, hire_date<{{{><}}}>FROM employees.employees<{{{><}}}>LIMIT 500; -- employees데이터베이스의 employees테이블에서 first_name, last_name, hire_date를 가져와서 (최대 500행)indextbl에 저장<{{{><}}}><{{{><}}}>SELECT * FROM indextbl; -- indextbl 출력
+Servers\root\QueryHistory\13<|||>1<|||>2022-12-27 11:28:32|shopdb|31|USE shopdb; -- shopdb에 생성<{{{><}}}>CREATE TABLE indextbl (first_name VARCHAR(14), last_name VARCHAR(16), hire_date DATE); -- 테이블 생성<{{{><}}}><{{{><}}}>INSERT INTO indextbl <{{{><}}}>SELECT first_name, last_name, hire_date<{{{><}}}>FROM employees.employees<{{{><}}}>LIMIT 500; -- employees데이터베이스의 employees테이블에서 first_name, last_name, hire_date를 가져와서 (최대 500행)indextbl에 저장<{{{><}}}><{{{><}}}>SELECT * FROM indextbl; -- indextbl 출력<{{{><}}}><{{{><}}}>
+Servers\root\QueryHistory\16<|||>1<|||>2022-12-27 11:43:57|shopdb|0|USE shopdb; -- shopdb에 생성<{{{><}}}>CREATE VIEW uv_membertbl<{{{><}}}>AS<{{{><}}}>SELECT memberName, memberAddress FROM membertbl;<{{{><}}}>
+Servers\root\QueryHistory\17<|||>1<|||>2022-12-27 11:44:38|shopdb|0|USE shopdb; -- shopdb에 생성<{{{><}}}>explain SELECT memberName, memberAddress FROM membertbl;<{{{><}}}>
+Servers\root\QueryHistory\18<|||>1<|||>2022-12-27 11:45:35|shopdb|0|USE shopdb; -- shopdb에 생성<{{{><}}}>SELECT uv_membertbl;
+Servers\root\QueryHistory\19<|||>1<|||>2022-12-27 12:21:51|shopdb|0|CALL proses;
+Servers\root\QueryHistory\20<|||>1<|||>2022-12-27 12:38:09|shopdb|15|delimiter //<{{{><}}}>CREATE TRIGGER trg_deletedMemberTBL<{{{><}}}>		AFTER delete<{{{><}}}>		ON membertbl<{{{><}}}>		FOR EACH ROW<{{{><}}}>BEGIN <{{{><}}}>		INSERT INTO deletedMembertbl<{{{><}}}>						VALUES (OLD.memberID, OLD.memberName, OLD.memberAddress, CURDATE());<{{{><}}}>END //<{{{><}}}>delimiter ;
+Servers\root\QueryHistory\21<|||>1<|||>2022-12-27 12:47:05|shopdb|0|SELECT * FROM membertbl;
+Servers\root\QueryHistory\22<|||>1<|||>2022-12-27 12:48:36|shopdb|0|SELECT * FROM membertbl;<{{{><}}}><{{{><}}}>DELETE FROM membertbl WHERE memberID = 'han';
+Servers\root\QueryHistory\23<|||>1<|||>2022-12-27 13:41:19|shopdb|0|delimiter //<{{{><}}}>CREATE TRIGGER trg_deletedMemberTBL<{{{><}}}>		AFTER delete<{{{><}}}>		ON membertbl<{{{><}}}>		FOR EACH ROW<{{{><}}}>BEGIN <{{{><}}}>		INSERT INTO deletedMembertbl<{{{><}}}>		VALUES (OLD.memberID, OLD.memberName, OLD.memberAddress, CURDATE());<{{{><}}}>END //<{{{><}}}>delimiter ;
+Servers\root\QueryHistory\24<|||>1<|||>2022-12-27 13:44:16|shopdb|16|SELECT * FROM membertbl;<{{{><}}}><{{{><}}}>DELETE FROM membertbl WHERE memberid = 'htrg_deletedMemberTBLan';<{{{><}}}><{{{><}}}>SELECT * FROM membertbl;
+Servers\root\QueryHistory\25<|||>1<|||>2022-12-27 13:46:14|shopdb|0|<{{{><}}}>DELETE FROM membertbl WHERE memberid = 'hdeletedmembertblan';<{{{><}}}><{{{><}}}>SELECT * FROM membertbl;
+Servers\root\QueryHistory\26<|||>1<|||>2022-12-27 13:47:07|shopdb|0|<{{{><}}}>DELETE FROM membertbl WHERE memberID = 'han';<{{{><}}}><{{{><}}}>SELECT * FROM membertbl;
+Servers\root\QueryHistory\27<|||>1<|||>2022-12-28 12:11:17|shopdb|0|USE shopdb;<{{{><}}}>SELECT * FROM membertbl;
+Servers\root\QueryHistory\4<|||>1<|||>2022-12-28 12:12:12|shopdb|0|USE shopdb;<{{{><}}}>SELECT * FROM membertbl;<{{{><}}}>SELECT memberName, memberID, memberAddress FROM membertbl;
+Servers\root\QueryHistory\28<|||>1<|||>2022-12-28 12:12:34||0|SHOW DATABASES;
+Servers\root\QueryHistory\29<|||>1<|||>2022-12-28 12:12:44|shopdb|0|SHOW DATABASES;<{{{><}}}>USE shopdb;
+Servers\root\QueryHistory\30<|||>1<|||>2022-12-28 12:12:59|shopdb|0|SHOW DATABASES;<{{{><}}}>USE shopdb;<{{{><}}}>SHOW TABLE STATUS;
+Servers\root\QueryHistory\31<|||>1<|||>2022-12-28 12:13:25|shopdb|0|SHOW DATABASES;<{{{><}}}>USE shopdb;<{{{><}}}>SHOW TABLE STATUS;<{{{><}}}>DESCRIBE employees;
+Servers\root\QueryHistory\32<|||>1<|||>2022-12-28 12:13:54|shopdb|0|DESCRIBE employees;
+Servers\root\QueryHistory\33<|||>1<|||>2022-12-28 12:14:39|shopdb|0|SHOW DATABASES;<{{{><}}}>
+Servers\root\QueryHistory\35<|||>1<|||>2022-12-28 12:15:07|shopdb|0|SHOW DATABASES;<{{{><}}}>DESCRIBE employees;
+Servers\root\QueryHistory\34<|||>1<|||>2022-12-28 12:15:45|shopdb|0|USE shopdb;<{{{><}}}>SELECT * FROM membertbl;<{{{><}}}>SELECT memberName, memberID, memberAddress FROM membertbl;<{{{><}}}>SHOW DATABASES;<{{{><}}}>DESCRIBE employees;
+Servers\root\QueryHistory\36<|||>1<|||>2022-12-28 14:34:24|sqldb|0|USE sqldb;<{{{><}}}>SELECT * FROM usertbl WHERE userName = '강호동';
+Servers\root\QueryHistory\37<|||>1<|||>2022-12-28 14:35:23|sqldb|15|USE sqldb;<{{{><}}}>SELECT * FROM usertbl WHERE userName = '강호동';<{{{><}}}>SELECT distinct addr FROM usertbl;
+Servers\root\QueryHistory\38<|||>1<|||>2022-12-28 14:37:06|sqldb|0|SELECT * FROM `sqldb`.usertbl order BY `userName` ASC LIMIT 2;
+Servers\root\QueryHistory\39<|||>1<|||>2022-12-28 14:39:06|sqldb|15|CREATE TABLE buytbl3 (SELECT userID, prodName FROM buytbl);<{{{><}}}>SELECT * FROM buytbl3;
+Servers\root\QueryHistory\40<|||>1<|||>2022-12-28 14:39:59|sqldb|0|SELECT userID, SUM(amount) FROM buytbl GROUP BY userID;
+Servers\root\QueryHistory\41<|||>1<|||>2022-12-28 14:41:38|sqldb|0|SELECT userID AS '사용자 아이디', SUM(price*amount) AS '총 구매액' FROM buytbl GROUP BY userID;
+Servers\root\QueryHistory\42<|||>1<|||>2022-12-28 14:52:51|sqldb|0|SELECT userID AS '사용자 아이디', SUM(price*amount) AS '총 구매액' FROM buytbl GROUP BY userID;<{{{><}}}>SELECT userID AS '사용자아이디' AVG(amount) AS '평균 구매 개수' FROM buytbl group BY userID; 
+Servers\root\QueryHistory\43<|||>1<|||>2022-12-28 14:52:58|sqldb|0|SELECT userID AS '사용자아이디' AVG(amount) AS '평균 구매 개수' FROM buytbl group BY userID; 
+Servers\root\QueryHistory\44<|||>1<|||>2022-12-28 14:53:03|sqldb|0|SELECT userID AS '사용자아이디', AVG(amount) AS '평균 구매 개수' FROM buytbl group BY userID; 
+Servers\root\QueryHistory\45<|||>1<|||>2022-12-28 14:54:26|sqldb|0|SELECT userName, height FROM usertbl WHERE height = (SELECT MAX(height) FROM usertbl) OR height = (SELECT MIN(height) FROM usertbl);
+Servers\root\QueryHistory\46<|||>1<|||>2022-12-28 14:55:50|sqldb|0|SELECT COUNT(mobile1) AS 휴대폰이 있는 사용자 FROM usertbl;
+Servers\root\QueryHistory\47<|||>1<|||>2022-12-28 14:56:00|sqldb|0|SELECT COUNT(mobile1) AS '휴대폰이 있는 사용자' FROM usertbl;
+Servers\root\QueryHistory\48<|||>1<|||>2022-12-28 15:53:09|sqldb|0|SELECT userID AS '사용자', SUM(price * amount) AS '총구매액' FROM buytbl <{{{><}}}>GROUP BY userID<{{{><}}}>HAVING SUM(price * amount) > 1000<{{{><}}}>ORDER BY SUM(price * amount);<{{{><}}}>
+Servers\root\QueryHistory\49<|||>1<|||>2022-12-28 16:01:16|sqldb|32|DROP TABLE if EXISTS `last_insert_id_table`;<{{{><}}}><{{{><}}}>CREATE TABLE last_insert_id_table (<{{{><}}}>`id` INT(11) NOT NULL AUTO_INCREMENT,<{{{><}}}>`col` VARCHAR(10) DEFAULT NULL,<{{{><}}}>primary KEY (`id`)<{{{><}}}>) <{{{><}}}>
+Servers\root\QueryHistory\50<|||>1<|||>2022-12-28 16:08:53|sqldb|16|DROP TABLE if EXISTS `last_insert_id_table`;<{{{><}}}><{{{><}}}>CREATE TABLE `last_insert_id_table` (<{{{><}}}>`id` INT(11) NOT NULL AUTO_INCREMENT,<{{{><}}}>`col` VARCHAR(10) DEFAULT NULL,<{{{><}}}>primary KEY (`id`)<{{{><}}}>);<{{{><}}}><{{{><}}}>INSERT INTO `last_insert_id_table`(`col`)<{{{><}}}>VALUES('1row'), ('2row'), ('3row');<{{{><}}}><{{{><}}}>SELECT last_insert_id();<{{{><}}}>
+Servers\root\QueryHistory\51<|||>1<|||>2022-12-28 16:13:34|sqldb|63|USE sqldb;<{{{><}}}>CREATE TABLE bigtbl1 (SELECT * FROM employees.employees) LIMIT 20;<{{{><}}}>CREATE TABLE bigtbl2 (SELECT * FROM employees.employees) LIMIT 20;<{{{><}}}>CREATE TABLE bigtbl3 (SELECT * FROM employees.employees) LIMIT 20;<{{{><}}}><{{{><}}}>
+Servers\root\QueryHistory\52<|||>1<|||>2022-12-28 16:15:36|sqldb|31|USE sqldb;<{{{><}}}>CREATE TABLE membertbl (SELECT userID, userName, addr FROM usertbl LIMIT 3);<{{{><}}}>ALTER TABLE membertbl<{{{><}}}>ADD CONSTRAINT pk_membertbl PRIMARY KEY (userID);<{{{><}}}><{{{><}}}>SELECT FROM * membertbl;
+Servers\root\QueryHistory\53<|||>1<|||>2022-12-28 16:17:48|sqldb|16|INSERT INTO membertbl VALUES ('KHD','강후덜','미국');<{{{><}}}>INSERT INTO membertbl VALUES ('LSM','이상민','서울');<{{{><}}}>INSERT INTO membertbl VALUES ('KSK','김성주','경기');<{{{><}}}>
+Servers\root\QueryHistory\54<|||>1<|||>2022-12-28 16:18:41|sqldb|0|INSERT ignore INTO membertbl VALUES ('KHD','강후덜','미국');<{{{><}}}>INSERT ignore INTO membertbl VALUES ('LSM','이상민','서울');<{{{><}}}>INSERT ignore INTO membertbl VALUES ('KSK','김성주','경기');<{{{><}}}><{{{><}}}>SELECT * FROM membertbl;
+Servers\root\QueryHistory\55<|||>1<|||>2022-12-28 16:20:52|sqldb|0|INSERT INTO membertbl VALUES ('KHD','강후덜','미국')<{{{><}}}>ON DUPLICATE KEY UPDATE userName='강후덜', addr='미국';<{{{><}}}>insert INTO membertbl VALUES ('DJM','동짜몽','일본')<{{{><}}}>ON DUPLICATE KEY UPDATE userName='동짜몽',addr='일본';<{{{><}}}>SELECT * FROM membertbl;
+Servers\root\QueryHistory\56<|||>1<|||>2022-12-29 09:41:31|sqldb|0|USE sqldb;<{{{><}}}>SET @myVar1 = 3;<{{{><}}}>PREPARE myQuery<{{{><}}}>FROM 'select userName, height from usertbl order by height limit ?';<{{{><}}}><{{{><}}}>EXECUTE myQuery USING @myVal1;
+Servers\root\QueryHistory\57<|||>1<|||>2022-12-29 09:41:49|sqldb|0|USE sqldb;<{{{><}}}>SET @myVar1 = 3;<{{{><}}}>PREPARE myQuery<{{{><}}}>FROM 'select userName, height from usertbl order by height limit ?';<{{{><}}}><{{{><}}}>EXECUTE myQuery USING @myVar1;
+Servers\root\QueryHistory\58<|||>1<|||>2022-12-29 09:43:10|sqldb|0|USE sqldb;<{{{><}}}>SELECT CAST(avg(amount) AS SIGNED INTEGER) AS '평균 구매 개수' FROM buytbl;<{{{><}}}>SELECT CONVERT(AVG(amount) AS SIGNED INTEGER) AS '평균 구매 개수' FROM buytbl;
+Servers\root\QueryHistory\59<|||>1<|||>2022-12-29 09:44:40|sqldb|0|SELECT CAST('2022$12$12' AS DATE);<{{{><}}}>SELECT CAST('2022/12/12' AS DATE);<{{{><}}}>SELECT CAST('2022%12%12' AS DATE);<{{{><}}}>SELECT CAST('2022@12@12' AS DATE);
+Servers\root\QueryHistory\60<|||>1<|||>2022-12-29 09:44:51|sqldb|0|SELECT CAST('2022$12$12' AS DATE);<{{{><}}}>SELECT CAST('2022/12/13' AS DATE);<{{{><}}}>SELECT CAST('2022%12%14' AS DATE);<{{{><}}}>SELECT CAST('2022@12@15' AS DATE);
+Servers\root\QueryHistory\61<|||>1<|||>2022-12-29 10:44:30|sqldb|0|USE sqldb;<{{{><}}}>SELECT num, CONCAT(CAST(price AS CHAR(10)),'X', CAST(amount AS CHAR(4), '=' AS '단가*수량',price*amount AS '구매액' FROM buytbl;
+Servers\root\QueryHistory\62<|||>1<|||>2022-12-29 10:44:50|sqldb|0|USE sqldb;<{{{><}}}>SELECT num, CONCAT(CAST(price AS CHAR(10)),'X', CAST(amount AS CHAR(4), '=' AS '단가*수량'),price*amount AS '구매액' FROM buytbl;
+Servers\root\QueryHistory\63<|||>1<|||>2022-12-29 10:45:16|sqldb|0|USE sqldb;<{{{><}}}>SELECT num, CONCAT(CAST(price AS CHAR(10)),'X', CAST(amount AS CHAR(4), '=') AS '단가*수량',price*amount AS '구매액' FROM buytbl;
+Servers\root\QueryHistory\64<|||>1<|||>2022-12-29 10:45:27|sqldb|0|USE sqldb;<{{{><}}}>SELECT num, CONCAT(CAST(price AS CHAR(10)),'X', CAST(amount AS CHAR(4), '=') AS '단가*수량'),price*amount AS '구매액' FROM buytbl;
+Servers\root\QueryHistory\65<|||>1<|||>2022-12-29 10:46:09|sqldb|16|USE sqldb;<{{{><}}}>SELECT num, CONCAT(CAST(price AS CHAR(10)),'X', CAST(amount AS CHAR(4)), '=') AS '단가*수량',price*amount AS '구매액' FROM buytbl;
+Servers\root\QueryHistory\66<|||>1<|||>2022-12-29 10:47:29|sqldb|0|SELECT BIT_LENGTH('ABC'), CHAR_LENGTH('ABC'), LENGTH('ABC');<{{{><}}}>SELECT BIT_LENGTH('강은희'), CHAR_LENGTH('강은희'), LENGTH('강은희);
+Servers\root\QueryHistory\67<|||>1<|||>2022-12-29 10:47:48|sqldb|0|SELECT BIT_LENGTH('ABC'), CHAR_LENGTH('ABC'), LENGTH('ABC');<{{{><}}}><{{{><}}}>SELECT BIT_LENGTH('강은희'), CHAR_LENGTH('강은희'), LENGTH('강은희');
+Servers\root\QueryHistory\68<|||>1<|||>2022-12-29 10:48:54|sqldb|0|SELECT CONCAT_WS('★','송','연','수');
+Servers\root\QueryHistory\69<|||>1<|||>2022-12-29 10:49:57|sqldb|0|FORMAT(123456.123456,4);
+Servers\root\QueryHistory\70<|||>1<|||>2022-12-29 10:50:13|sqldb|0|select FORMAT(123456.123456,4);
+Servers\root\QueryHistory\71<|||>1<|||>2022-12-29 11:01:16|sqldb|0|select INSTR('kangeunhee','h');
+Servers\root\QueryHistory\72<|||>1<|||>2022-12-29 11:01:37|sqldb|0|SELECT BIN(10), HEX(10), OCT(10);
+Servers\root\QueryHistory\73<|||>1<|||>2022-12-29 11:02:29|sqldb|0|SELECT INSERT('songyeonsu',5,4,'joung');
+Servers\root\QueryHistory\74<|||>1<|||>2022-12-29 11:03:26|sqldb|0|SELECT LEFT('songyeonsu',4), RIGHT('songyeonsu',6);<{{{><}}}>SELECT UPPER('songyeonsu'),LOWER('SongYeonSu');
+Servers\root\QueryHistory\75<|||>1<|||>2022-12-29 11:04:23|sqldb|16|SELECT LPAD('yeonsu',10,'song'),RPAD('song',10,'yeonsu');
+Servers\root\QueryHistory\76<|||>1<|||>2022-12-29 11:13:20|sqldb|0|SELECT if (100>200, '참이다','거짓이다');
+Servers\root\QueryHistory\77<|||>1<|||>2022-12-29 11:13:53|sqldb|0|SELECT IFNULL(NULL,'널이군요'),IFNULL(100,'널이군요');
+Servers\root\QueryHistory\78<|||>1<|||>2022-12-29 11:14:17|sqldb|0|SELECT NULLIF(100,100),NULLIF(200,100);
+Servers\root\QueryHistory\79<|||>1<|||>2022-12-29 11:14:36|sqldb|0|SELECT ASCII('A'), CHAR(65);
+Servers\root\QueryHistory\80<|||>1<|||>2022-12-29 11:15:05|sqldb|0|SELECT LOCATE('y','songyeonsu');
+Servers\root\QueryHistory\82<|||>1<|||>2022-12-29 11:39:25|sqldb|0|SELECT TRIM('  yeonsu  ');
+Servers\root\QueryHistory\83<|||>1<|||>2022-12-29 11:39:38|sqldb|0|SELECT LTRIM('  yeonsu  '), RTRIM('  yeonsu  ');
+Servers\root\QueryHistory\81<|||>1<|||>2022-12-29 11:40:32|sqldb|0|SELECT repeat('yeonsu  ',2);<{{{><}}}>SELECT REPLACE('song yeonsu','yeonsu','ganggang');<{{{><}}}>SELECT REVERSE('yeonsu');
+Servers\root\QueryHistory\84<|||>1<|||>2022-12-29 11:41:46|sqldb|0|SELECT SPACE(5);<{{{><}}}>SELECT SUBSTRING('songyeonsu',5,6);<{{{><}}}>SELECT SUBSTRING_INDEX('songyeonsu','n',2);
+Servers\root\QueryHistory\85<|||>1<|||>2022-12-29 11:42:01|sqldb|0|SELECT SPACE(5);<{{{><}}}>SELECT SUBSTRING('songyeonsu',5,6);<{{{><}}}>SELECT SUBSTRING_INDEX('songyeonsu','s',2);
+Servers\root\QueryHistory\86<|||>1<|||>2022-12-29 11:42:32|sqldb|0|SELECT ABS(-5), SIN(5), COS(5), TAN(5);
+Servers\root\QueryHistory\87<|||>1<|||>2022-12-29 11:42:57|sqldb|0|SELECT CEILING(3.5). FLOOR(3.5), ROUND(3.5);
+Servers\root\QueryHistory\88<|||>1<|||>2022-12-29 11:43:15|sqldb|0|SELECT CEILING(3.5), FLOOR(3.5), ROUND(3.5);
+Servers\root\QueryHistory\89<|||>1<|||>2022-12-29 11:43:35|sqldb|0|SELECT CONV(10, 10, 2);
+Servers\root\QueryHistory\90<|||>1<|||>2022-12-29 11:44:01|sqldb|0|SELECT MOD(5,2);<{{{><}}}>SELECT 5%2;<{{{><}}}>SELECT 5 MOD 2;
+Servers\root\QueryHistory\91<|||>1<|||>2022-12-29 11:44:25|sqldb|0|sleect POW(2,4), SQRT(9);
+Servers\root\QueryHistory\92<|||>1<|||>2022-12-29 11:44:33|sqldb|0|select POW(2,4), SQRT(9);
+Servers\root\QueryHistory\93<|||>1<|||>2022-12-29 11:45:05|sqldb|0|SELECT FLOOR(land()* (10-1));
+Servers\root\QueryHistory\94<|||>1<|||>2022-12-29 11:45:20|sqldb|0|SELECT FLOOR(rand()* (10-1));
+Servers\root\QueryHistory\96<|||>1<|||>2022-12-29 11:45:29|sqldb|0|SELECT FLOOR(1+RAND() * (10-1));
+Servers\root\QueryHistory\95<|||>1<|||>2022-12-29 11:45:49|sqldb|0|SELECT SIGN(-3), SIGN(0), SIGN(3);
+Servers\root\QueryHistory\97<|||>1<|||>2022-12-29 11:46:20|sqldb|0|SELECT TRUNCATE(12345.25689,2);<{{{><}}}>SELECT TRUNCATE(12345.25689,-2);<{{{><}}}>
+Servers\root\QueryHistory\98<|||>1<|||>2022-12-29 11:47:51|sqldb|0|SELECT ADDDATE('2020-01-01',INTERVAL 31 DAY), ADDDATE('2020-01-01', INTERVAL 1 MONTH);<{{{><}}}>SELECT SUBDATE('2020-01-01',INTERVAL 31 DAY), SUBDATE('2020-01-01',INTERVAL 1 MONTH);
+Servers\root\QueryHistory\99<|||>1<|||>2022-12-29 12:29:51|sqldb|0|SELECT ADDTIME('2020-01-01 23:59:59','1:1:1'),ADDTIME('15:00:00','2:10:10');<{{{><}}}>SELECT SUBTIME('2020-01-01 23:59:59','1:1:1'),SUBTIME('15:00:00','2:10:10');
+Servers\root\QueryHistory\100<|||>1<|||>2022-12-29 12:30:34|sqldb|0|SELECT CURDATE(), CURTIME(), NOW(), SYSDATE();
+Servers\root\QueryHistory\101<|||>1<|||>2022-12-29 12:31:37|sqldb|0|SELECT YEAR('2022-05-12'),<{{{><}}}>MONTH('2022-05-12'),<{{{><}}}>day('2022-05-12'),<{{{><}}}>hour('2022-05-12'),<{{{><}}}>minute('2022-05-12'),<{{{><}}}>second('2022-05-12');
+Servers\root\QueryHistory\102<|||>1<|||>2022-12-29 12:32:34|sqldb|0|SELECT DATE(NOW()), TIME(NOW()); -- curdate,curtime과 동일
+Servers\root\QueryHistory\103<|||>1<|||>2022-12-29 12:33:20|sqldb|0|SELECT DATEDIFF('2024-01-01',NOW()),<{{{><}}}>TIMEDIFF('23:23:59','12:11:10');
+Servers\root\QueryHistory\104<|||>1<|||>2022-12-29 12:34:08|sqldb|0|SELECT DAYOFWEEK(CURDATE()),<{{{><}}}>MONTHNAME(CURDATE()),<{{{><}}}>DAYOFYEAR(CURDATE());
+Servers\root\QueryHistory\105<|||>1<|||>2022-12-29 12:34:57|sqldb|0|SELECT LAST_DAY('2022-12-29');<{{{><}}}>SELECT MAKEDATE(2022,26);
+Servers\root\QueryHistory\107<|||>1<|||>2022-12-29 12:35:58|sqldb|0|SELECT MAKETIME(12,11,10);<{{{><}}}>SELECT PERIOD_ADD(202001,11),<{{{><}}}>PERIOD_DIFF(202205,200010);
+Servers\root\QueryHistory\106<|||>1<|||>2022-12-29 12:36:31|sqldb|0|SELECT QUARTER('2022-05-05');
+Servers\root\QueryHistory\108<|||>1<|||>2022-12-29 12:36:53|sqldb|0|SELECT TIME_TO_SEC('12:11:10');
+Servers\root\QueryHistory\109<|||>1<|||>2022-12-29 12:37:20|sqldb|0|SELECT CURRENT_USER(), DATABASE();
+Servers\root\QueryHistory\110<|||>1<|||>2022-12-29 12:38:06|sqldb|0|USE sqldb;<{{{><}}}>SELECT * FROM usertbl;<{{{><}}}>SELECT FOUND_ROWS();
+Servers\root\QueryHistory\111<|||>1<|||>2022-12-29 12:39:25|sqldb|5000|SELECT SLEEP(5);<{{{><}}}>SELECT '짠 ~ 5초가 지나서 보여요';
+Servers\root\QueryHistory\112<|||>1<|||>2022-12-29 14:18:59|sqldb|0|USE sqldb;<{{{><}}}>SELECT u.userID, u.userName, b.prodName, u.addr, CONCAT((u.mobil1, u.mobile2) AS '연락처'<{{{><}}}>FROM usertbl u<{{{><}}}>INNER JOIN buytbl b ON u.userID = b.userID<{{{><}}}>ORDER BY u.userID;
+Servers\root\QueryHistory\113<|||>1<|||>2022-12-29 14:19:10|sqldb|0|USE sqldb;<{{{><}}}>SELECT u.userID, u.userName, b.prodName, u.addr, CONCAT((u.mobile1, u.mobile2) AS '연락처'<{{{><}}}>FROM usertbl u<{{{><}}}>INNER JOIN buytbl b ON u.userID = b.userID<{{{><}}}>ORDER BY u.userID;
+Servers\root\QueryHistory\114<|||>1<|||>2022-12-29 14:20:04|sqldb|0|USE sqldb;<{{{><}}}>SELECT U.userID, U.userName, B.prodName, U.addr, CONCAT((U.mobile1, U.mobile2) AS '연락처'<{{{><}}}>FROM usertbl U<{{{><}}}>INNER JOIN buytbl B ON U.userID = B.userID<{{{><}}}>ORDER BY U.userID;
+Servers\root\QueryHistory\117<|||>1<|||>2022-12-29 14:21:09|sqldb|0|USE sqldb;<{{{><}}}>SELECT U.userID, U.userName, B.prodName, U.addr, CONCAT(U.mobile1, U.mobile2) AS '연락처'<{{{><}}}>FROM usertbl U<{{{><}}}>INNER JOIN buytbl B ON U.userID = B.userID<{{{><}}}>ORDER BY U.userID;
+Servers\root\QueryHistory\115<|||>1<|||>2022-12-29 14:21:24|sqldb|0|USE sqldb;<{{{><}}}>SELECT distinct U.userID, U.userName, B.prodName, U.addr, CONCAT(U.mobile1, U.mobile2) AS '연락처'<{{{><}}}>FROM usertbl U<{{{><}}}>INNER JOIN buytbl B ON U.userID = B.userID<{{{><}}}>ORDER BY U.userID;
+Servers\root\QueryHistory\116<|||>1<|||>2022-12-29 14:21:49|sqldb|0|USE sqldb;<{{{><}}}>SELECT distinct U.userID, U.userName, B.prodName, U.addr<{{{><}}}>FROM usertbl U<{{{><}}}>INNER JOIN buytbl B ON U.userID = B.userID<{{{><}}}>ORDER BY U.userID;
+Servers\root\QueryHistory\118<|||>1<|||>2022-12-29 14:22:37|sqldb|0|USE sqldb;<{{{><}}}>SELECT distinct U.userID, U.userName, U.addr<{{{><}}}>FROM usertbl U<{{{><}}}>INNER JOIN buytbl B ON U.userID = B.userID<{{{><}}}>ORDER BY U.userID;
+Servers\root\QueryHistory\119<|||>1<|||>2022-12-29 14:29:42|sqldb|31|USE sqldb;<{{{><}}}>CREATE TABLE stdtbl (stdName VARCHAR(10) NOT NULL PRIMARY KEY,<{{{><}}}>addr CHAR(4) NOT NULL);<{{{><}}}>CREATE TABLE clubtbl (clubName VARCHAR(10) NOT NULL PRIMARY KEY,<{{{><}}}>roomNo CHAR(4) NOT NULL);<{{{><}}}>CREATE TABLE stdclubtbl (num INT AUTO_INCREMENT NOT NULL PRIMARY KEY,<{{{><}}}>stdName VARCHAR(10) NOT NULL,<{{{><}}}>clubName VARCHAR(10) NOT NULL,<{{{><}}}>FOREIGN KEY(stdName) REFERENCES stdtbl(stdName),<{{{><}}}>FOREIGN KEY(clubName) REFERENCES clubtbl(clubName);
+Servers\root\QueryHistory\120<|||>1<|||>2022-12-29 14:30:19|sqldb|47|USE sqldb;<{{{><}}}>CREATE TABLE stdtbl (stdName VARCHAR(10) NOT NULL PRIMARY KEY,<{{{><}}}>addr CHAR(4) NOT NULL);<{{{><}}}>CREATE TABLE clubtbl (clubName VARCHAR(10) NOT NULL PRIMARY KEY,<{{{><}}}>roomNo CHAR(4) NOT NULL);<{{{><}}}>CREATE TABLE stdclubtbl (num INT AUTO_INCREMENT NOT NULL PRIMARY KEY,<{{{><}}}>stdName VARCHAR(10) NOT NULL,<{{{><}}}>clubName VARCHAR(10) NOT NULL,<{{{><}}}>FOREIGN KEY(stdName) REFERENCES stdtbl(stdName),<{{{><}}}>FOREIGN KEY(clubName) REFERENCES clubtbl(clubName));
+Servers\root\QueryHistory\121<|||>1<|||>2022-12-29 14:33:43|sqldb|0|INSERT INTO stdtbl VALUES('강호동','경북'),('김제동','경남'),('김용만','서울'),('이휘재','경기'),('박수홍','서울');<{{{><}}}><{{{><}}}>INSERT INTO clubtbl VALUES('수영','101호'),('바둑','102호'),('축구','103호'),('봉사','104호');<{{{><}}}>INSERT INTO stdclubtbl VALUES(NULL,'강호동','바둑'),(NULL,'강호동','축구'),(NULL,'김용만','축구'),(NULL,'이휘재','축구'),(NULL,'이휘재','봉사'),(NULL,'박수홍','봉사');
+Servers\root\QueryHistory\122<|||>1<|||>2022-12-29 14:35:36|sqldb|0|SELECT s.stdName, s.addr, c.clubName,c.roomNo<{{{><}}}>FROM stdtbl s<{{{><}}}>INNER JOIN stdclubtbl sc ON s.stdName = sc.stdName<{{{><}}}>INNER JOIN clubtbl c ON sc.clubName = c.clubName<{{{><}}}>ORDER BY s.stdName;
+Servers\root\QueryHistory\123<|||>1<|||>2022-12-29 14:37:51|sqldb|0|use sqldb;<{{{><}}}>SELECT c.clubName, c.roomNo, s.stdName, s.addr<{{{><}}}>FROM stdtbl s<{{{><}}}>INNER JOIN stdclubtbl sc ON sc.stdName = s.stdName<{{{><}}}>INNER JOIN clubtbl c ON sc.clubName = c.clubName<{{{><}}}>ORDER BY c.clubName;
+Servers\root\QueryHistory\124<|||>1<|||>2022-12-29 15:18:24|sqldb|0|SELECT s.stdName, s.addr, c.clubName, c.roomNo<{{{><}}}>FROM stdtbl s<{{{><}}}>LEFT OUTER JOIN stdclubtbl sc<{{{><}}}>ON s.stdName = sc.stdName<{{{><}}}>LEFT OUTER JOIN clubtbl c<{{{><}}}>ON sc.clubName = c.clubName
+Servers\root\QueryHistory\125<|||>1<|||>2022-12-29 15:18:45|sqldb|0|union<{{{><}}}>SELECT s.stdName, s.addr, c.clubName, c.roomNo<{{{><}}}>FROM stdtbl s<{{{><}}}>LEFT OUTER JOIN stdclubtbl sc<{{{><}}}>ON s.stdName = sc.stdName<{{{><}}}>LEFT OUTER JOIN clubtbl c<{{{><}}}>ON sc.clubName = c.clubName
+Servers\root\QueryHistory\126<|||>1<|||>2022-12-29 15:19:02|sqldb|0|union<{{{><}}}>SELECT s.stdName, s.addr, c.clubName, c.roomNo<{{{><}}}>FROM stdtbl s<{{{><}}}>LEFT OUTER JOIN stdclubtbl sc<{{{><}}}>ON s.stdName = sc.stdName<{{{><}}}>right OUTER JOIN clubtbl c<{{{><}}}>ON sc.clubName = c.clubName
+Servers\root\QueryHistory\127<|||>1<|||>2022-12-29 15:19:14|sqldb|0|union<{{{><}}}>SELECT s.stdName, s.addr, c.clubName, c.roomNo<{{{><}}}>FROM stdtbl s<{{{><}}}>LEFT OUTER JOIN stdclubtbl sc<{{{><}}}>ON sc.stdName = s.stdName<{{{><}}}>right OUTER JOIN clubtbl c<{{{><}}}>ON sc.clubName = c.clubName
+Servers\root\QueryHistory\128<|||>1<|||>2022-12-29 15:19:44|sqldb|0|union<{{{><}}}>SELECT s.stdName, s.addr, c.clubName, c.roomNo<{{{><}}}>FROM stdtbl s<{{{><}}}>LEFT OUTER JOIN stdclubtbl sc<{{{><}}}>ON sc.stdName = s.stdName<{{{><}}}>RIGHT OUTER JOIN clubtbl c<{{{><}}}>ON sc.clubName = c.clubName;
+Servers\root\QueryHistory\129<|||>1<|||>2022-12-29 15:19:54|sqldb|0|SELECT s.stdName, s.addr, c.clubName, c.roomNo<{{{><}}}>FROM stdtbl s<{{{><}}}>LEFT OUTER JOIN stdclubtbl sc<{{{><}}}>ON sc.stdName = s.stdName<{{{><}}}>RIGHT OUTER JOIN clubtbl c<{{{><}}}>ON sc.clubName = c.clubName;
+Servers\root\QueryHistory\130<|||>1<|||>2022-12-29 15:20:26|sqldb|0|USE sqldb;<{{{><}}}>SELECT * FROM buytbl CROSS JOIN usertbl;
+Servers\root\QueryHistory\131<|||>1<|||>2022-12-29 15:21:27|employees|125|USE employees;<{{{><}}}>SELECT COUNT(*) AS '데이터개수'<{{{><}}}>FROM employees CROSS JOIN departments;
+Servers\root\QueryHistory\132<|||>1<|||>2022-12-29 15:24:15|employees|15|DROP PROCEDURE if EXISTS ifproc;<{{{><}}}>delimiter $$<{{{><}}}>CREATE PROCEDURE ifproc()<{{{><}}}>BEGIN<{{{><}}}>	DECLARE var1 INT;<{{{><}}}>	SET var1 = 100;<{{{><}}}>	<{{{><}}}>	if var1 = 100 then<{{{><}}}>		SELECT '100입니다.';<{{{><}}}>	ELSE <{{{><}}}>		SELECT '100이 아닙니다.';<{{{><}}}>	END if;<{{{><}}}>END $$<{{{><}}}>delimiter ;<{{{><}}}>CALL ifproc();
+Servers\root\QueryHistory\133<|||>1<|||>2022-12-29 15:29:20|employees|16|DROP PROCEDURE if EXISTS ifProc2;<{{{><}}}>USE employees;<{{{><}}}><{{{><}}}>delimiter $$<{{{><}}}>CREATE PROCEDURE ifProc2()<{{{><}}}>BEGIN<{{{><}}}>DECLARE hireDATE DATE;<{{{><}}}>DECLARE CURDATE DATE;<{{{><}}}>DECLARE days INT;<{{{><}}}><{{{><}}}>SELECT hire_date INTO hireDATE<{{{><}}}>	FROM employees.employees<{{{><}}}>	WHERE emp_no = 10001;<{{{><}}}><{{{><}}}>SET CURDATE = CURRENT_DATE();<{{{><}}}>SET days = DATEDIFF(CURDATE,hireDATE);<{{{><}}}><{{{><}}}>if(days/365) >= 5 then<{{{><}}}>	SELECT CONCAT('입사한지',days,'일이나 지났습니다. 축하합니다!');<{{{><}}}>ELSE<{{{><}}}>	SELECT '입사한지' + days + '일밖에 안되었네요. 열심히 일하세요.';<{{{><}}}>END if;<{{{><}}}>END $$<{{{><}}}>delimiter ;<{{{><}}}>CALL ifProc2();
+Servers\root\QueryHistory\135<|||>1<|||>2022-12-29 15:30:18|employees|15|DROP PROCEDURE if EXISTS ifProc;<{{{><}}}>delimiter $$<{{{><}}}>CREATE PROCEDURE ifProc()<{{{><}}}>BEGIN<{{{><}}}>	DECLARE var1 INT;<{{{><}}}>	SET var1 = 100;<{{{><}}}>	<{{{><}}}>	if var1 = 100 then<{{{><}}}>		SELECT '100입니다.';<{{{><}}}>	ELSE <{{{><}}}>		SELECT '100이 아닙니다.';<{{{><}}}>	END if;<{{{><}}}>END $$<{{{><}}}>delimiter ;<{{{><}}}>CALL ifproc();
+Servers\root\QueryHistory\134<|||>1<|||>2022-12-29 15:34:34|employees|0|DROP PROCEDURE if EXISTS ifProc3;<{{{><}}}>delimiter $$<{{{><}}}>CREATE PROCEDURE ifProc3()<{{{><}}}>BEGIN <{{{><}}}>	DECLARE POINT INT;<{{{><}}}>	DECLARE credit CHAR(1);<{{{><}}}>	SET POINT = 77;<{{{><}}}>	<{{{><}}}>	if POINT >= 90 then<{{{><}}}>		SET credit = 'A';<{{{><}}}>	ELSEIF POINT >= 80 then<{{{><}}}>		SET credit = 'B';<{{{><}}}>	ELSEIF POINT >= 70 then<{{{><}}}>		SET credit = 'C';<{{{><}}}>	ELSEIF POINT >= 60 then<{{{><}}}>		SET credit = 'D';<{{{><}}}>	ELSe<{{{><}}}>		SET credit = 'F';<{{{><}}}>	END if;<{{{><}}}>	SELECT CONCAT('취득점수==>',POINT), CONCAT('학점==>',credit);<{{{><}}}>END $$<{{{><}}}>delimiter ;<{{{><}}}>CALL ifProc3();
+Servers\root\QueryHistory\136<|||>1<|||>2022-12-29 15:38:43|employees|16|DROP PROCEDURE if EXISTS caseProc;<{{{><}}}>delimiter $$<{{{><}}}>CREATE PROCEDURE caseProc()<{{{><}}}>BEGIN<{{{><}}}>	DECLARE POINT INT;<{{{><}}}>	declare credit CHAR(1);<{{{><}}}>	SET POINT = 77;<{{{><}}}>	<{{{><}}}>	case<{{{><}}}>	when POINT >= 90 then<{{{><}}}>	SET credit = 'A';<{{{><}}}>	when POINT >= 80 then<{{{><}}}>	SET credit = 'B';<{{{><}}}>	when POINT >= 70 then<{{{><}}}>	SET credit = 'C';<{{{><}}}>	when POINT >= 60 then<{{{><}}}>	SET credit = 'D';<{{{><}}}>	else<{{{><}}}>	SET credit = 'F';<{{{><}}}>	END case;<{{{><}}}>	SELECT CONCAT('취득점수==>',POINT),  CONCAT('학점==>',credit);<{{{><}}}>	END $$<{{{><}}}>	delimiter ;<{{{><}}}>	CALL caseProc();
+Servers\root\QueryHistory\137<|||>1<|||>2022-12-29 15:49:50|sqldb|0|USE sqldb;<{{{><}}}><{{{><}}}>SELECT u.userID, u.Name, SUM(price*amount) AS '총구매액',<{{{><}}}>	case<{{{><}}}>	when (SUM(price*amount) >= 1500) then	'최우수고객'<{{{><}}}>	when (SUM(price*amount) >= 1000) then '우수고객'<{{{><}}}>	when (SUM(price*amount) >= 1) then '일반고객'<{{{><}}}>	ELSE '유령고객'<{{{><}}}>	END AS '고객등급'<{{{><}}}>FROM buytbl B<{{{><}}}>RIGHT OUTER JOIN usertbl u	ON b.userID = u.userID<{{{><}}}>GROUP BY u.userID, u.name<{{{><}}}>ORDER BY SUM(price*amount) DESC;
+Servers\root\QueryHistory\139<|||>1<|||>2022-12-29 15:50:55|sqldb|0|USE sqldb;<{{{><}}}><{{{><}}}>SELECT u.userID, u.userName, SUM(price*amount) AS '총구매액',<{{{><}}}>	case<{{{><}}}>	when (SUM(price*amount) >= 1500) then	'최우수고객'<{{{><}}}>	when (SUM(price*amount) >= 1000) then '우수고객'<{{{><}}}>	when (SUM(price*amount) >= 1) then '일반고객'<{{{><}}}>	ELSE '유령고객'<{{{><}}}>	END AS '고객등급'<{{{><}}}>FROM buytbl B<{{{><}}}>RIGHT OUTER JOIN usertbl u	ON b.userID = u.userID<{{{><}}}>GROUP BY u.userID, u.name<{{{><}}}>ORDER BY SUM(price*amount) DESC;
+Servers\root\QueryHistory\138<|||>1<|||>2022-12-29 15:52:38|sqldb|0|USE sqldb;<{{{><}}}><{{{><}}}>SELECT u.userID, u.userName, SUM(price*amount) AS '총구매액',<{{{><}}}>	case<{{{><}}}>	when (SUM(price*amount) >= 1500) then	'최우수고객'<{{{><}}}>	when (SUM(price*amount) >= 1000) then '우수고객'<{{{><}}}>	when (SUM(price*amount) >= 1) then '일반고객'<{{{><}}}>	ELSE '유령고객'<{{{><}}}>	END AS '고객등급'<{{{><}}}>FROM buytbl B<{{{><}}}>RIGHT OUTER JOIN usertbl u	ON b.userID = u.userID<{{{><}}}>GROUP BY u.userID, u.userName<{{{><}}}>ORDER BY SUM(price*amount) DESC;
+Servers\root\QueryHistory\140<|||>1<|||>2022-12-29 16:09:15|sqldb|0|USE sqldb;<{{{><}}}>SELECT userID, SUM(price*amount) AS '총구매액' <{{{><}}}>FROM buytbl GROUP BY userID ORDER BY SUM(price*amount) DESC;<{{{><}}}><{{{><}}}>SELECT b.userID, u.userName, SUM(price*amount) AS '총구매액'<{{{><}}}>FROM buytbl b<{{{><}}}>INNER JOIN usertbl u ON b.userID = u.userID<{{{><}}}>GROUP BY b.userID, u.userName ORDER BY SUM(price*amount) DESC;<{{{><}}}><{{{><}}}>SELECT b. userID, u.userName, SUM(price*amount) AS '총구매액'<{{{><}}}>FROM buytbl b<{{{><}}}>RIGHT OUTER JOIN usertbl u ON b.userID = u.userID<{{{><}}}>GROUP BY b.userID, u.userName ORDER BY SUM(price*amount) DESC;<{{{><}}}><{{{><}}}>SELECT u.userID, u.userName, SUM(price*amount) AS '총구매액'<{{{><}}}>FROM buytbl b <{{{><}}}>RIGHT OUTER JOIN usertbl u ON b.userID = u.userID<{{{><}}}>GROUP BY u.userID, u.userName ORDER BY SUM(price*amount) DESC;
+Servers\root\QueryHistory\141<|||>1<|||>2022-12-30 10:33:39|sqldb|0|DROP PROCEDURE if EXISTS whileProc;<{{{><}}}>delimiter $$<{{{><}}}>CREATE PROCEDURE whileProc()<{{{><}}}>BEGIN <{{{><}}}>	DECLARE i INT;<{{{><}}}>	DECLARE hap INT;<{{{><}}}>		SET i = 1;<{{{><}}}>		SET hap = 0;<{{{><}}}><{{{><}}}>	while (i<=100) do<{{{><}}}>	SET hap = hap + 1;<{{{><}}}>	SET i = i + 1;<{{{><}}}>	END while;<{{{><}}}>	<{{{><}}}>	SELECT hap;<{{{><}}}>END $$<{{{><}}}>delimiter ;<{{{><}}}>CALL whileProc();	
+Servers\root\QueryHistory\142<|||>1<|||>2022-12-30 10:36:00|sqldb|0|DROP PROCEDURE if EXISTS whileProc2;<{{{><}}}>delimiter $$<{{{><}}}>CREATE PROCEDURE whileProc2()<{{{><}}}>BEGIN <{{{><}}}>	DECLARE i INT;<{{{><}}}>	DECLARE hap INT;<{{{><}}}>		SET i = 1;<{{{><}}}>		SET hap = 0;<{{{><}}}><{{{><}}}>	myWhile:while (i<=100) do<{{{><}}}>	if(i%7 = 0) then<{{{><}}}>	SET i = i + 1;<{{{><}}}>	iterate myWhile;<{{{><}}}>	END if;<{{{><}}}>	<{{{><}}}>	SET hap = hap + i;<{{{><}}}>	if(hap>1000) then<{{{><}}}>	leave myWhile;<{{{><}}}>	END if;<{{{><}}}>	<{{{><}}}>	SET i = i +1;<{{{><}}}>	END while;<{{{><}}}>		SELECT hap;<{{{><}}}>END $$<{{{><}}}>delimiter ;<{{{><}}}>CALL whileProc2();	
+Servers\root\QueryHistory\143<|||>1<|||>2022-12-30 10:43:04|sqldb|16|USE sqldb;<{{{><}}}>CREATE TABLE backup_userTbl<{{{><}}}>(userID CHAR(8) NOT NULL PRIMARY KEY,<{{{><}}}>NAME VARCHAR(10) NOT NULL,<{{{><}}}>birthYear INT NOT NULL,<{{{><}}}>addr CHAR(2) NOT NULL,<{{{><}}}>mobile1 CHAR(3),<{{{><}}}>mobile2 CHAR(4),<{{{><}}}>mobile3 CHAR(4),<{{{><}}}>height SMALLINT,<{{{><}}}>mDate DATE,<{{{><}}}>modType CHAR(2), -- 변경된 타입, '수정' 또는 '삭제'<{{{><}}}>modDate DATE, -- 변경된 날짜<{{{><}}}>modUser VARCHAR(256) -- 변경한 사용자<{{{><}}}>);
+Servers\root\QueryHistory\144<|||>1<|||>2022-12-30 11:05:13|sqldb|31|USE sqldb;<{{{><}}}>DROP TRIGGER if eXISTS backupUserTbl_UpdateTrg;<{{{><}}}>delimiter //<{{{><}}}>CREATE TRIGGER backupUserTbl_UpdateTrg --트리거 이름<{{{><}}}>	AFTER UPDATE -- 변경 후에 작동하도록 지정<{{{><}}}>	ON usertbl -- 트리거를 부착할 테이블<{{{><}}}>	FOR EACH ROW <{{{><}}}>BEGIN<{{{><}}}>	INSERT INTO backup_usertbl VALUES ( OLD.userID, OLD.userName, OLD.birthYear, OLD.addr, OLD.mobile1, OLD.mobile2, OLD.height, OLD.mDate, '수정', CURDATE(), CURRENT_USER());<{{{><}}}>END//<{{{><}}}>delimiter ;<{{{><}}}><{{{><}}}>DROP TRIGGER if EXISTS backupUserTbl_DeleteTrg;<{{{><}}}>delimiter //<{{{><}}}>CREATE TRIGGER backupUserTbl_DeleteTrg -- 트리거 이름<{{{><}}}>	AFTER DELETE -- 삭제 후에 작동하도록 지정<{{{><}}}>	ON usertbl -- 트리거를 부착할 테이블<{{{><}}}>	FOR EACH ROW <{{{><}}}>BEGIN <{{{><}}}>	INSERT INTO backup_usertbl VALUES ( OLD.userID, OLD.userName, OLD.birthYear, OLD.addr, OLD.mobile1, OLD.mobile2, OLD.height, OLD.mDate, '삭제', CURDATE(), CURRENT_USER());<{{{><}}}>END //<{{{><}}}>delimiter ;<{{{><}}}>
+Servers\root\QueryHistory\145<|||>1<|||>2022-12-30 11:09:07|sqldb|16|USE sqldb;<{{{><}}}>DROP TRIGGER if EXISTS backupUserTbl_UpdateTrg;<{{{><}}}>delimiter //<{{{><}}}>CREATE TRIGGER backupUserTbl_UpdateTrg --트리거 이름<{{{><}}}>	AFTER UPDATE -- 변경 후에 작동하도록 지정<{{{><}}}>	ON usertbl -- 트리거를 부착할 테이블<{{{><}}}>	FOR EACH ROW <{{{><}}}>BEGIN<{{{><}}}>	INSERT INTO backup_usertbl VALUES ( OLD.userID, OLD.userName, OLD.birthYear, OLD.addr, OLD.mobile1, OLD.mobile2, OLD.height, OLD.mDate, '수정', CURDATE(), CURRENT_USER());<{{{><}}}>END//<{{{><}}}>delimiter ;<{{{><}}}><{{{><}}}>DROP TRIGGER if EXISTS backupUserTbl_DeleteTrg;<{{{><}}}>delimiter //<{{{><}}}>CREATE TRIGGER backupUserTbl_DeleteTrg -- 트리거 이름<{{{><}}}>	AFTER DELETE -- 삭제 후에 작동하도록 지정<{{{><}}}>	ON usertbl -- 트리거를 부착할 테이블<{{{><}}}>	FOR EACH ROW <{{{><}}}>BEGIN <{{{><}}}>	INSERT INTO backup_usertbl VALUES ( OLD.userID, OLD.userName, OLD.birthYear, OLD.addr, OLD.mobile1, OLD.mobile2, OLD.height, OLD.mDate, '삭제', CURDATE(), CURRENT_USER());<{{{><}}}>END //<{{{><}}}>delimiter ;
+Servers\root\QueryHistory\147<|||>1<|||>2022-12-30 11:09:35|sqldb|47|USE sqldb;<{{{><}}}>DROP TRIGGER if EXISTS backUserTbl_UpdateTrg;<{{{><}}}>delimiter //<{{{><}}}>CREATE TRIGGER backUserTbl_UpdateTrg --트리거 이름<{{{><}}}>	AFTER UPDATE -- 변경 후에 작동하도록 지정<{{{><}}}>	ON usertbl -- 트리거를 부착할 테이블<{{{><}}}>	FOR EACH ROW <{{{><}}}>BEGIN<{{{><}}}>	INSERT INTO backup_usertbl VALUES ( OLD.userID, OLD.userName, OLD.birthYear, OLD.addr, OLD.mobile1, OLD.mobile2, OLD.height, OLD.mDate, '수정', CURDATE(), CURRENT_USER());<{{{><}}}>END//<{{{><}}}>delimiter ;<{{{><}}}><{{{><}}}>DROP TRIGGER if EXISTS backUserTbl_DeleteTrg;<{{{><}}}>delimiter //<{{{><}}}>CREATE TRIGGER backUserTbl_DeleteTrg -- 트리거 이름<{{{><}}}>	AFTER DELETE -- 삭제 후에 작동하도록 지정<{{{><}}}>	ON usertbl -- 트리거를 부착할 테이블<{{{><}}}>	FOR EACH ROW <{{{><}}}>BEGIN <{{{><}}}>	INSERT INTO backup_usertbl VALUES ( OLD.userID, OLD.userName, OLD.birthYear, OLD.addr, OLD.mobile1, OLD.mobile2, OLD.height, OLD.mDate, '삭제', CURDATE(), CURRENT_USER());<{{{><}}}>END //<{{{><}}}>delimiter ;
+Servers\root\QueryHistory\146<|||>1<|||>2022-12-30 11:11:19|sqldb|47|USE sqldb;<{{{><}}}>DROP TRIGGER if EXISTS backUserTbl_UpdateTrg;<{{{><}}}>delimiter //<{{{><}}}>CREATE TRIGGER backUserTbl_UpdateTrg <{{{><}}}>	AFTER UPDATE <{{{><}}}>	ON usertbl <{{{><}}}>	FOR EACH ROW <{{{><}}}>BEGIN<{{{><}}}>	INSERT INTO backup_usertbl VALUES ( OLD.userID, OLD.userName, OLD.birthYear, OLD.addr, OLD.mobile1, OLD.mobile2, OLD.height, OLD.mDate, '수정', CURDATE(), CURRENT_USER());<{{{><}}}>END //<{{{><}}}>delimiter ;<{{{><}}}><{{{><}}}>DROP TRIGGER if EXISTS backUserTbl_DeleteTrg;<{{{><}}}>delimiter //<{{{><}}}>CREATE TRIGGER backUserTbl_DeleteTrg <{{{><}}}>	AFTER DELETE<{{{><}}}>	ON usertbl <{{{><}}}>	FOR EACH ROW <{{{><}}}>BEGIN <{{{><}}}>	INSERT INTO backup_usertbl VALUES ( OLD.userID, OLD.userName, OLD.birthYear, OLD.addr, OLD.mobile1, OLD.mobile2, OLD.height, OLD.mDate, '삭제', CURDATE(), CURRENT_USER());<{{{><}}}>END //<{{{><}}}>delimiter ;
+Servers\root\QueryHistory\148<|||>1<|||>2022-12-30 11:21:50|triggerdb|16|--물품 테이블에서 개수를 감소시키는 트리거<{{{><}}}>DROP TRIGGER if EXISTS ordertrg;<{{{><}}}>delimiter //<{{{><}}}>CREATE TRIGGER ordertrg<{{{><}}}>	AFTER insert<{{{><}}}>	ON ordertbl<{{{><}}}>	FOR EACH row<{{{><}}}>BEGIN<{{{><}}}>	UPDATE prodtbl SET ACCOUNT = ACCOUNT - NEW.orderamount<{{{><}}}>		WHERE prodName = NEW.prodName;<{{{><}}}>END //<{{{><}}}>delimiter;
+Servers\root\QueryHistory\150<|||>1<|||>2022-12-30 11:27:29|triggerdb|15|DROP TRIGGER if EXISTS prodtrg;<{{{><}}}>delimiter //<{{{><}}}>CREATE TRIGGER prodtrg<{{{><}}}>	AFTER update<{{{><}}}>	ON prodtbl<{{{><}}}>	FOR EACH ROW<{{{><}}}>BEGIN<{{{><}}}>	DECLARE orderAmount INT;<{{{><}}}>	SET orderAmount = OLD.account - NEW.account;<{{{><}}}>	INSERT INTO delivertbl(prodName, ACCOUNT)<{{{><}}}>		VALUES (NEW.prodName, orderAmount);<{{{><}}}>END //<{{{><}}}>delimiter ;
+Servers\root\QueryHistory\149<|||>1<|||>2022-12-30 11:33:05|sqldb|0|USE sqldb;<{{{><}}}><{{{><}}}>UPDATE usertbl SET addr = '몽고' WHERE userID = 'JKW';<{{{><}}}>DELETE FROM usertbl WHERE height >= 177;<{{{><}}}><{{{><}}}>SELECT * FROM backup_usertbl;<{{{><}}}>
+Servers\root\servletex|3\Sort<|||>1<|||>1_no3|
+Servers\root\shopdb|\MemoEditorHighlighter_cost<|||>1<|||>
+Servers\root\shopdb|\MemoEditorHighlighter_company<|||>1<|||>
+Servers\root\shopdb|deletedmembertbl\MemoEditorHighlighter_memberAddress<|||>1<|||>
+Servers\root\shop|\MemoEditorHighlighter_아이디<|||>1<|||>
+Servers\root\sqldb|usertbl\MemoEditorHighlighter_userID<|||>1<|||>
+Servers\root\sql|buytbl\Sort<|||>1<|||>1_userID|0_num|

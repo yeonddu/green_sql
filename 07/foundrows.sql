@@ -1,0 +1,3 @@
+USE sqldb;
+SELECT * FROM usertbl;
+SELECT FOUND_ROWS();

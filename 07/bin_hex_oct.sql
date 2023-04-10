@@ -1,0 +1,1 @@
+SELECT BIN(10), HEX(10), OCT(10);

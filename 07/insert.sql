@@ -1,0 +1,1 @@
+SELECT INSERT('songyeonsu',5,4,'joung');

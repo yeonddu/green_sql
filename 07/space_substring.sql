@@ -1,0 +1,3 @@
+SELECT SPACE(5);
+SELECT SUBSTRING('songyeonsu',5,6);
+SELECT SUBSTRING_INDEX('songyeonsu','s',2);

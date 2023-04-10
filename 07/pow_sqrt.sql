@@ -1,0 +1,1 @@
+select POW(2,4), SQRT(9);

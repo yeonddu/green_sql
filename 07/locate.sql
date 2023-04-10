@@ -1,0 +1,1 @@
+SELECT LOCATE('y','songyeonsu');

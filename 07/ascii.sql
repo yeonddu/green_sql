@@ -1,0 +1,1 @@
+SELECT ASCII('A'), CHAR(65);

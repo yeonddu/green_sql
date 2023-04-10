@@ -1,0 +1,1 @@
+SELECT DATE(NOW()), TIME(NOW()); -- curdate,curtime과 동일

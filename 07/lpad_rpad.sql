@@ -1,0 +1,1 @@
+SELECT LPAD('yeonsu',10,'song'),RPAD('song',10,'yeonsu');

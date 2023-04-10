@@ -1,0 +1,1 @@
+SELECT LTRIM('  yeonsu  '), RTRIM('  yeonsu  ');

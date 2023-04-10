@@ -1,0 +1,1 @@
+SELECT IFNULL(NULL,'널이군요'),IFNULL(100,'널이군요');
